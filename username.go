@@ -4,8 +4,8 @@ import "fmt"
 
 func username() {
 	var (
-		username  = "SampleUser"
-		passwrord = "SamplePassword"
+		username  = "UpdatedUsername"
+		passwrord = "UpdatedPassword"
 	)
 	fmt.Println(username, passwrord)
 }
